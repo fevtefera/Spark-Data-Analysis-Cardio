@@ -15,8 +15,7 @@ between various health indicators and the presence of cardiovascular disease.
 - Apache Spark (PySpark)
 - Pandas
 - NumPy
-- Matplotlib
-- Seaborn
+
 
 ## Installation Instructions
 1. Clone the repository:
