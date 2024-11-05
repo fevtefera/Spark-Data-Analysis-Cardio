@@ -23,9 +23,9 @@ between various health indicators and the presence of cardiovascular disease.
 In addition to statistical analysis with Spark, this project includes a Deep Neural Network (DNN) model to predict the presence of cardiovascular disease. The DNN leverages various health indicators to make predictions, complementing the insights from the Spark-based data analysis.
 
 ## Model Details
-Model Type: Deep Neural Network (DNN)
-Libraries Used: TensorFlow, Keras
-Purpose: To predict the likelihood of cardiovascular disease based on health metrics.
+- Model Type: Deep Neural Network (DNN)
+- Libraries Used: TensorFlow, Keras
+- Purpose: To predict the likelihood of cardiovascular disease based on health metrics.
 
 ## Installation Instructions
 1. Clone the repository:
